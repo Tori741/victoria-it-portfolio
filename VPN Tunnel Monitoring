@@ -1,0 +1,31 @@
+# VPN Tunnel Monitoring
+
+## Overview
+
+Built an Ansible-based monitoring solution that checks VPN tunnel connectivity and automatically alerts on outages.
+
+## Technologies
+
+- Ansible
+- YAML
+- Ubuntu Linux
+- OpenVPN
+- Semaphore
+
+## Features
+
+- Tunnel status monitoring
+- Email notifications
+- State tracking
+- Automatic recovery attempts
+
+## Skills Demonstrated
+
+- Network troubleshooting
+- Linux administration
+- Infrastructure automation
+- YAML development
+
+## Screenshots
+
+(Add screenshots here)
